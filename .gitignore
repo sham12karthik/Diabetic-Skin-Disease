@@ -1,7 +1,24 @@
+# Datasets
 Datasets/
 TestSet/
+storage/
+
+# Models
 *.h5
+
+# Notebooks
 *.ipynb
-diabetic_env/
+.ipynb_checkpoints/
+
+# Python
 __pycache__/
 *.pyc
+
+# Virtual Environment
+diabetic_env/
+
+# System files
+.DS_Store
+
+# Environment variables
+.env
